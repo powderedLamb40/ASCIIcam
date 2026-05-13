@@ -21,12 +21,12 @@ cd ASCIIcam
 
 - Python 3.7+
 - OpenCV (`cv2`)
-- Pillow (PIL)
+- numpy
 
 ### Setup
 
 ```bash
-pip install opencv-python pillow
+pip install opencv-python numpy
 ```
 
 ## Usage
