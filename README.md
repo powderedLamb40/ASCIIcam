@@ -63,7 +63,8 @@ CHAR_SET = "@%#*+=-:. "
 
 ## Examples
 
-Check the `examples/` directory for sample ASCII art outputs.
+<img width="1920" height="1052" alt="image" src="https://github.com/user-attachments/assets/dc86d258-4951-4b29-8c78-a7efd0f5402e" />
+
 
 ## Contributing
 
